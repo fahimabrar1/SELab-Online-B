@@ -1,5 +1,9 @@
 #include<stdio.h>
+<<<<<<< HEAD
 nt sum(int arr[], int n) {
+=======
+int sum(int arr[], int n) {
+>>>>>>> fahim-br
  for (int i=0;i<n;i++){
  arr[i] += 5;
  }
